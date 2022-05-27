@@ -107,4 +107,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 > 4. Confirm that bucket policy was edited successfully.
 
 ![image](https://user-images.githubusercontent.com/40290711/170735193-54b64b93-bdb7-4602-9d4c-5a20e58a84a5.png)
+- > You will see warnings about making your bucket public, but ***this step is required for static website hosting***.
 
+#### Tips
+>  If we were not learning about static website hosting, we could have made the bucket private and wouldn't have to specify any bucket access policy explicitly. In such a case, once we set up the CloudFront distribution, it will automatically update the current bucket access policy to access the bucket content. The CloudFront service will make this happen by using the Origin Access Identity user.
