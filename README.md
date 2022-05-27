@@ -54,6 +54,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 ![image](https://user-images.githubusercontent.com/40290711/170685090-8dabbb1a-d368-438d-817f-b32024bfe7c9.png)
 
 
+#### STEP 2: Upload files to S3 Bucket
 
 
 
