@@ -104,4 +104,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ![image](https://user-images.githubusercontent.com/40290711/170733149-3c67bd58-73f5-4c0b-ae86-3638e14395a6.png)
 
+> 4. Confirm that bucket policy was edited successfully.
+
+![image](https://user-images.githubusercontent.com/40290711/170735193-54b64b93-bdb7-4602-9d4c-5a20e58a84a5.png)
 
