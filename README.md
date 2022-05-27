@@ -142,3 +142,4 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 > 5. After successfully saving the settings, check the ***Static website hosting*** section again under the Properties tab. You must now be able to view the website endpoint as shown below:
 
 ![image](https://user-images.githubusercontent.com/40290711/170743029-a15c7bfa-6ec8-4209-99e9-29713d106d08.png)
+- > Copy the website enpoint for future use.
