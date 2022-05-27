@@ -172,3 +172,10 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
  
 ![image](https://user-images.githubusercontent.com/40290711/170769277-331c2168-26c8-4cf7-ad3e-64d9021f5266.png)
  - > ***Note:*** It may take up to ***10 minutes*** for the CloudFront Distribution to be created.
+
+ > 5. Once the status of your distribution changes from “In Progress” to “Deployed”, copy the endpoint URL for your CloudFront distribution found in the “Domain Name” column.
+
+ - > Note - Remember, as soon as your CloudFront distribution is Deployed, it attaches to S3 and starts caching the S3 pages. CloudFront may take 10-30 minutes (or more) to cache the S3 page. Once the caching is complete, the CloudFront domain name URL will stop redirecting to the S3 object URL
+ 
+![image](https://user-images.githubusercontent.com/40290711/170770841-bbe89168-3030-4eff-9767-4d3114f15d6f.png
+- > In this example, the Domain Name value is ***d17nmn15xw4rzh.cloudfront.net***, but yours will be different. 
