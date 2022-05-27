@@ -143,3 +143,12 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ![image](https://user-images.githubusercontent.com/40290711/170743029-a15c7bfa-6ec8-4209-99e9-29713d106d08.png)
 - > Copy the website enpoint for future use.
+
+#### STEP 5: Distribute Website via CloudFront
+
+> 1. Select “Services” from the top left corner and enter “cloud front” in the “Find a service by name or feature” text box and select “CloudFront”.
+
+![image](https://user-images.githubusercontent.com/40290711/170760257-8ccbc82d-c8ad-46a9-a8af-9e5a4b7a3a60.png)
+
+> 2. From the CloudFront dashboard, click ***"Create Distribution"***.
+
