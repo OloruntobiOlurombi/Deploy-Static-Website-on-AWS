@@ -129,3 +129,15 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 > Did you notice that enabling the static website hosting requires you to make your bucket public?
 > In the snapshot above, it says "For your customers to access the content at the website endpoint, you must make all your content ***publicly readable***."
+
+> 3. For both “Index document” and “Error document”, enter “index.html” and click “Save”. After successfully saving the settings, check the ***Static website hosting*** section again under the Properties tab. You must now be able to view the website endpoint as shown below:
+
+![image](https://user-images.githubusercontent.com/40290711/170741841-ea22f487-4931-44dd-bada-a0530646ac55.png)
+
+![image](https://user-images.githubusercontent.com/40290711/170743029-a15c7bfa-6ec8-4209-99e9-29713d106d08.png)
+
+
+> 4. Confirm that the static website hosting was edited successfully
+
+![image](https://user-images.githubusercontent.com/40290711/170742352-d4146a8e-9889-425b-b0ff-04c32c44763a.png)
+
