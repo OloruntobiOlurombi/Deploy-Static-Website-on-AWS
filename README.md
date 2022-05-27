@@ -177,5 +177,20 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
  - > Note - Remember, as soon as your CloudFront distribution is Deployed, it attaches to S3 and starts caching the S3 pages. CloudFront may take 10-30 minutes (or more) to cache the S3 page. Once the caching is complete, the CloudFront domain name URL will stop redirecting to the S3 object URL
  
-![image](https://user-images.githubusercontent.com/40290711/170770841-bbe89168-3030-4eff-9767-4d3114f15d6f.png
+![image](https://user-images.githubusercontent.com/40290711/170770841-bbe89168-3030-4eff-9767-4d3114f15d6f.png)
 - > In this example, the Domain Name value is ***d17nmn15xw4rzh.cloudfront.net***, but yours will be different. 
+ 
+ #### STEP 6: Access Website in the Web Browser
+ > 1. Open a web browser like Google Chrome, and paste the copied CloudFront domain name (such as, dgf7z6g067r6d.cloudfront.net) ***without appending*** **/index.html** at the end. The CloudFront domain name should show you the content of the default home-page, as shown below:
+ 
+![image](https://user-images.githubusercontent.com/40290711/170774008-27117516-d0f6-4835-9f85-aea8435978fe.png)
+- > The figure above shows the page displayed at ***https://d17nmn15xw4rzh.cloudfront.net***.
+ 
+ >2. Access the website via website-endpoint, such as, http://my-1992-22-07.s3-website-us-east-1.amazonaws.com.
+ ![image](https://user-images.githubusercontent.com/40290711/170774822-749c7cf8-ac35-4bdf-8553-c961d4b8e1ee.png)
+ 
+ 3. Access the bucket object via its S3 object URL, such as, http://my-1992-22-07.s3-website-us-east-1.amazonaws.com.
+ ![image](https://user-images.githubusercontent.com/40290711/170775410-3a1608b5-bb10-4d43-8bd1-2f1e969b1771.png)
+
+
+### congratulations, Welcome to the end
