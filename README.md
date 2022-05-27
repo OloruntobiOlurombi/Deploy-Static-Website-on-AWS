@@ -37,4 +37,23 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 > 4. In the Bucket settings for Block Public Access section, uncheck the “Block all public access”. It will enable the public access to the bucket objects via the S3 object URL.
 
-![image](https://user-images.githubusercontent.com/40290711/170682786-2ec004a4-7579-4765-855d-b8af73a931d7.png)
+![image](https://user-images.githubusercontent.com/40290711/170684235-0b5f819e-33f0-476d-a374-27c1d634f9c8.png)
+
+> **Allow the public access to the bucket contents**
+
+> 5. Click on “Create bucket”.
+
+![image](https://user-images.githubusercontent.com/40290711/170684572-a17e1806-0bec-437f-98ab-dcb12c8f7de3.png)
+
+> 6. Confirmed that the bucket is created. 
+
+![image](https://user-images.githubusercontent.com/40290711/170684785-e72845c6-3363-494c-8351-41cb369d0be4.png)
+
+> 7. Click on the name of the bucket to open the bucket to the contents.
+
+![image](https://user-images.githubusercontent.com/40290711/170685090-8dabbb1a-d368-438d-817f-b32024bfe7c9.png)
+
+
+
+
+
