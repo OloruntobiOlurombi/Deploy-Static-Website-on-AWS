@@ -67,4 +67,8 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ![image](https://user-images.githubusercontent.com/40290711/170721361-fc19a12f-b39f-40a5-8a38-53734a09baba.png)
 
+> 2. Confirm that the file and folders are uploaded successfully
+
+![image](https://user-images.githubusercontent.com/40290711/170726225-cb0d7141-2cb2-4a10-a610-cbebe52b3118.png)
+- > Successfully uploaded starter code in the bucket.
 
