@@ -116,7 +116,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 > 1. Go to the ***Properties*** tab and then scroll down to edit the ***Static website hosting*** section.
 
-![image](https://user-images.githubusercontent.com/40290711/170737721-7e660e4e-9e2c-4a6f-b501-0610e58365cb.png
+![image](https://user-images.githubusercontent.com/40290711/170737721-7e660e4e-9e2c-4a6f-b501-0610e58365cb.png)
 - > Go to the ***Properties*** tab
 
 ![image](https://user-images.githubusercontent.com/40290711/170738615-67d45d11-acc7-4f43-9242-22458d73d9b2.png)
