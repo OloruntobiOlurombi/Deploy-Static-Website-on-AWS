@@ -168,4 +168,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 ![image](https://user-images.githubusercontent.com/40290711/170768702-094ab937-7d97-43c0-b92c-7de5aa583940.png)
 ![image](https://user-images.githubusercontent.com/40290711/170768912-dc8b27af-391d-4b32-812a-3125234b3a84.png)
 
-
+> 4. Leave the defaults for the rest of the options, and click “Create Distribution”. It may take up to 10 minutes for the CloudFront Distribution to get created.
+ 
+![image](https://user-images.githubusercontent.com/40290711/170769277-331c2168-26c8-4cf7-ad3e-64d9021f5266.png)
+ - > ***Note:*** It may take up to ***10 minutes*** for the CloudFront Distribution to be created.
