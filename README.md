@@ -121,3 +121,11 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ![image](https://user-images.githubusercontent.com/40290711/170738615-67d45d11-acc7-4f43-9242-22458d73d9b2.png)
 - > Edit the Static website hosting section
+
+> 2. Click on the “Edit” button to see the ***Edit static website hosting*** screen. Now, enable the ***Static website hosting***, and provide the default home page and error page for your website. 
+
+![image](https://user-images.githubusercontent.com/40290711/170740243-e1089661-0f38-467a-8210-62a7724068fe.png)
+- > Enable the static website hosting, and provide the home page and error page.
+
+> Did you notice that enabling the static website hosting requires you to make your bucket public?
+> In the snapshot above, it says "For your customers to access the content at the website endpoint, you must make all your content ***publicly readable***."
