@@ -17,3 +17,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 > You will configure the bucket for website hosting and secure it using IAM policies.
 > You will speed up content delivery using AWS’s content distribution network service, CloudFront.
 > You will access your website in a browser using the unique CloudFront endpoint.
+
+### STEPS
+> Follow the exercise instructions described below:
+> 
