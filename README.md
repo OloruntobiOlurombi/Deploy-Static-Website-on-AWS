@@ -157,9 +157,12 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 > 3. Use the following details to create a distrution:
 
 >                  Field                                          Value
->                  Origin > Domain Name                            Don't select the bucket from the dropdown list. Paste the Static website hosting endpoint of the form <bucket-name>.s3-website-region.amazonaws.com
+>                  Origin > Domain Name                           Don't select the bucket from the dropdown list. Paste the Static website hosting endpoint of the form <bucket-name>.s3-website-region.amazonaws.com
  >                  Origin > Enable Origin Shield                  No
  >                  Default cache bahavior                         Use default settings
  >                  Cache key and origin requests                  Use default settings
+ 
+ ![image](https://user-images.githubusercontent.com/40290711/170767616-eeaf0b01-a803-4c25-8ea9-af1d713746f1.png)
+- > Configurations - Origin details
 
 
