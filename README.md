@@ -72,3 +72,31 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 ![image](https://user-images.githubusercontent.com/40290711/170726225-cb0d7141-2cb2-4a10-a610-cbebe52b3118.png)
 - > Successfully uploaded starter code in the bucket.
 
+#### STEP 3: Secure Bucket via IAM
+> 1. Click on the ***"Permissions"*** tab.
+
+![image](https://user-images.githubusercontent.com/40290711/170728510-2ac1202a-344a-4e61-8629-92028d931efb.png)
+
+> 2. The “Bucket Policy” section shows it is empty. Click on the Edit button.
+
+![image](https://user-images.githubusercontent.com/40290711/170730492-32cef71e-1df0-41ed-bbd8-1eb0a9993efa.png)
+- > Empty bucket policy. Check this policy again after setting up the CloudFront distribution.
+
+> 3. Enter the following bucket policy replacing ***your-website*** with the name of your bucket and click “Save”.
+
+```
+{
+"Version":"2012-10-17",
+"Statement":[
+ {
+   "Sid":"AddPerm",
+   "Effect":"Allow",
+   "Principal": "*",
+   "Action":["s3:GetObject"],
+   "Resource":["arn:aws:s3:::your-website/*"]
+ }
+]
+}
+
+```
+
