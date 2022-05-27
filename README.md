@@ -20,4 +20,21 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 ### STEPS
 > Follow the exercise instructions described below:
-> 
+
+#### STEP 1: Create S3 Bucket
+
+> 1. Navigate to the “AWS Management Console” page, type “S3” in the “Find Services” box and then select “S3”.
+
+![image](https://user-images.githubusercontent.com/40290711/170674902-2e8d18cf-562e-4525-b2b8-16ed957dd5e0.png)
+
+> 2. The Amazon S3 dashboard displays. Click “Create bucket”.
+
+![image](https://user-images.githubusercontent.com/40290711/170675491-1446bf29-2481-432b-9f9c-faa0f7f4f09d.png)
+
+> 3. In the General configuration, enter a “Bucket name” and a region of your choice. Note: Bucket names must be globally unique.
+
+![image](https://user-images.githubusercontent.com/40290711/170682076-9a259ff6-1b61-4d52-95ac-167a405a1de8.png)
+
+> 4. In the Bucket settings for Block Public Access section, uncheck the “Block all public access”. It will enable the public access to the bucket objects via the S3 object URL.
+
+![image](https://user-images.githubusercontent.com/40290711/170682786-2ec004a4-7579-4765-855d-b8af73a931d7.png)
