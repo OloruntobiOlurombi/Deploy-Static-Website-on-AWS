@@ -55,6 +55,16 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 
 #### STEP 2: Upload files to S3 Bucket
+> 1. Once the bucket is open to its contents, click the “Upload” button.
 
+![image](https://user-images.githubusercontent.com/40290711/170717664-7e664a26-bd63-464f-9900-f6c2dbcc95df.png)
+- > Click on the ***Upload button***
+
+> 2. Click the "Add files" and “Add folder” button, and upload the [Student-ready starter code](https://drive.google.com/open?id=15vQ7-utH7wBJzdAX3eDmO9ls35J5_sEQ) folder content from your local computer to the S3 bucket.
+
+![image](https://user-images.githubusercontent.com/40290711/170719332-d83aaf33-c739-4eb3-8571-761d8f761812.png)
+- > Click "Add files" to upload the ***index.html*** file, and click "Add folder" to upload the ***css***, ***img***, and ***vendor*** folders.
+
+![image](https://user-images.githubusercontent.com/40290711/170721361-fc19a12f-b39f-40a5-8a38-53734a09baba.png)
 
 
