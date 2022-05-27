@@ -152,3 +152,11 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 
 > 2. From the CloudFront dashboard, click ***"Create Distribution"***.
 
+![image](https://user-images.githubusercontent.com/40290711/170762279-5ac8561d-23eb-4823-9d3e-be819661fa78.png)
+
+> 3. Use the following details to create a distrution:
+
+>                  Field                                          Value
+>                  Origin > Domain Name                            Don't select the bucket from the dropdown list. Paste the Static website hosting endpoint of the form <bucket-name>.s3-website-region.amazonaws.com
+
+
