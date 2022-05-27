@@ -165,4 +165,7 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
  ![image](https://user-images.githubusercontent.com/40290711/170767616-eeaf0b01-a803-4c25-8ea9-af1d713746f1.png)
 - > Configurations - Origin details
 
+![image](https://user-images.githubusercontent.com/40290711/170768702-094ab937-7d97-43c0-b92c-7de5aa583940.png)
+![image](https://user-images.githubusercontent.com/40290711/170768912-dc8b27af-391d-4b32-812a-3125234b3a84.png)
+
 
